@@ -10,6 +10,20 @@
         "loginId": "1758904",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "quepoes.com"
+        "cookiedomain": "quepoes.com",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.pochipochi.com"
+            }
+        }
     }
 }
